@@ -63,6 +63,8 @@ body {
 .main-menu {
     display: flex;
     list-style: none;
+    font-size: 16px !important;
+    font-weight: 400;
     color: rgb(255, 255, 255);
     margin-right: 10px;
     padding-left: 0px;
@@ -70,7 +72,6 @@ body {
     font-weight: 700;
     font-size: 13px;
     cursor: pointer;
-    letter-spacing: .15em;
     z-index: 2;
 }
 
